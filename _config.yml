@@ -37,6 +37,8 @@ timezone: Asia/Shanghai
 # --- 文章列表页 ---
 # 文章列表是否显示摘要
 show_excerpt: false
+# 摘要分隔符
+excerpt_separator: <!--more-->
 # --- 文章页 ---
 
 
@@ -89,7 +91,7 @@ reward_description: 如果你觉得本文对你有帮助，请我喝杯咖啡吧
 # livere_uid:
 # gitment 用户主，即 GitHub 用户名
 #gitment_owner: zixijian
-# GitHub pages 仓库名，如：showzeng.github.io
+# GitHub pages 仓库名，如：zixijian.github.io
 #gitment_repo: zixijian.github.io
 # gitment 提供的对应 id 和 secret
 #gitment_client_id: 
